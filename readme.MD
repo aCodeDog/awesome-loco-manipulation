@@ -31,15 +31,17 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 |------|------|------------|---------|--------|------|------|------|
 | Go2-Arx | Go2 |  Arx-L5-Pro |[URDF](https://github.com/aCodeDog/awesome-loco-manipulation/tree/master/robots/go2_arx)| BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | B1-Z1 | Unitree B1 |  Unitree Z1 |[URDF](https://github.com/aCodeDog/awesome-loco-manipulation/tree/master/robots/B1_Z1)| BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Aliengo-Z1 | Aliengo |  Unitree Z1 |[URDF](https://github.com/aCodeDog/awesome-loco-manipulation/tree/master/robots/aliengoZ1)| BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Aliengo-Z1 | Unitree Aliengo |  Unitree Z1 |[URDF](https://github.com/aCodeDog/awesome-loco-manipulation/tree/master/robots/aliengoZ1)| BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 ### wheel-legged robots with arm
 
 | Name | Robot Base | Arm | Formats | License | Meshes | Inertias | Collisions |
 |------|------|------------|---------|--------|------|------|------|
-<!-- | Airbot | Airbot | Airbot Arm | [MJCF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/a1/xml), [URDF] |  | ✔️ | ✔️ | ✔️ | -->
+| Airbot | Airbot | Airbot Arm | [URDF](https://github.com/aCodeDog/legged-robots-manipulation/tree/master/resources/robots/airbot) |  | ✔️ | ✔️ | ✔️ |
 
 ### Mobile robots with arm
 
 | Name | Robot Base | Arm | Formats | License | Meshes | Inertias | Collisions |
 |------|------|------------|---------|--------|------|------|------|
-<!-- | A1 | UNITREE Robotics | [MJCF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/a1/xml), [URDF] | BSD-3-Clause | ✔️ | ✔️ | ✔️ | -->
+| pr2 | PR2 robot | PR2 robot | [URDF](https://github.com/aCodeDog/legged-robots-manipulation/tree/master/resources/robots/mobile_manipulator/pr2) | BSD-3 | ✔️ | ✔️ | ✔️ |
+| Ridgeback-UR5 | ClearPath Ridgeback base | UR-5  | [URDF](https://github.com/aCodeDog/legged-robots-manipulation/tree/master/resources/robots/mobile_manipulator/ridgeback_ur5) | Apache 2.0 | ✔️ | ✔️ | ✔️ |
+| Mabi-Mobile | - | -  | [URDF](https://github.com/aCodeDog/legged-robots-manipulation/tree/master/resources/robots/mobile_manipulator/mabi_mobile) | - | ✔️ | ✔️ | ✔️ |
