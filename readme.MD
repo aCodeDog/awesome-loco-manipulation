@@ -9,7 +9,7 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 
 ### learning-based 
 
-- [2024 IROS] Reinforcement Learning for Legged Robots: Motion Imitation from Model-Based Optimal Control. [[paper](https://arxiv.org/abs/2403.16535)] [[code](https://acodedog.github.io/wheel-legged-loco-manipulation/)]
+- [2024 IROS] Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot [[paper](https://arxiv.org/abs/2403.16535)] [[code](https://acodedog.github.io/wheel-legged-loco-manipulation/)]
 
 - [2024 IROS] Learning Visual Quadrupedal Loco-Manipulation from Demonstrations. [[paper](https://arxiv.org/abs/2403.20328)] 
 
@@ -32,7 +32,7 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 | Go2-Arx | Go2 |  Arx-L5-Pro |[URDF](https://github.com/aCodeDog/awesome-loco-manipulation/tree/master/robots/go2_arx)| BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | B1-Z1 | Unitree B1 |  Unitree Z1 |[URDF](https://github.com/aCodeDog/awesome-loco-manipulation/tree/master/robots/B1_Z1)| BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Aliengo-Z1 | Unitree Aliengo |  Unitree Z1 |[URDF](https://github.com/aCodeDog/awesome-loco-manipulation/tree/master/robots/aliengoZ1)| BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-### wheel-legged robots with arm
+### Wheel-legged robots with arm
 
 | Name | Robot Base | Arm | Formats | License | Meshes | Inertias | Collisions |
 |------|------|------------|---------|--------|------|------|------|
