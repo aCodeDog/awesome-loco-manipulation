@@ -19,9 +19,13 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 
 - [2024 Arxiv] Learning Generalizable Feature Fields for Mobile Manipulation. [[paper](https://arxiv.org/abs/2403.07563)] 
 
+
+
 - [2022 CORL] Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion. [[paper](https://arxiv.org/abs/2210.10044)] [[code](https://github.com/MarkFzp/Deep-Whole-Body-Control)]
 
 ### model-based
+
+- [2023 Science Robotics] Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation. [[paper](https://www.science.org/doi/full/10.1126/scirobotics.adg5014)] 
 
 ## Robot models
 
