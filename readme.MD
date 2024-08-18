@@ -42,6 +42,6 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 
 | Name | Robot Base | Arm | Formats | License | Meshes | Inertias | Collisions |
 |------|------|------------|---------|--------|------|------|------|
-| pr2 | PR2 robot | PR2 robot | [URDF](https://github.com/aCodeDog/legged-robots-manipulation/tree/master/resources/robots/mobile_manipulator/pr2) | BSD-3 | ✔️ | ✔️ | ✔️ |
-| Ridgeback-UR5 | ClearPath Ridgeback base | UR-5  | [URDF](https://github.com/aCodeDog/legged-robots-manipulation/tree/master/resources/robots/mobile_manipulator/ridgeback_ur5) | Apache 2.0 | ✔️ | ✔️ | ✔️ |
-| Mabi-Mobile | - | -  | [URDF](https://github.com/aCodeDog/legged-robots-manipulation/tree/master/resources/robots/mobile_manipulator/mabi_mobile) | - | ✔️ | ✔️ | ✔️ |
+| pr2 | PR2 robot | PR2 robot | [URDF](https://github.com/aCodeDog/awesome-loco-manipulation/tree/master/robots/mobile_manipulator/pr2) | BSD-3 | ✔️ | ✔️ | ✔️ |
+| Ridgeback-UR5 | ClearPath Ridgeback base | UR-5  | [URDF](https://github.com/aCodeDog/awesome-loco-manipulation/tree/master/robots/mobile_manipulator/ridgeback_ur5) | Apache 2.0 | ✔️ | ✔️ | ✔️ |
+| Mabi-Mobile | - | -  | [URDF](https://github.com/aCodeDog/awesome-loco-manipulation/tree/master/robots/mobile_manipulator/mabi_mobile/urdf) | - | ✔️ | ✔️ | ✔️ |
