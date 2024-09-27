@@ -9,10 +9,12 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 
 ### Learning-based 
 - [2024 IROS] HiLMa-Res: A General Hierarchical Framework via Residual RL for Combining Quadrupedal Locomotion and Manipulation [[paper](https://arxiv.org/abs/2407.06584)] 
-
+- [2024 IROS] On Learning Scene-Aware Generative State Abstractions for Task-Level Mobile Manipulation Planning [[paper](https://www.research-collection.ethz.ch/handle/20.500.11850/634113)]  [[code](https://github.com/ethz-asl/predicate_learning)]
 - [2024 IROS] Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot [[paper](https://arxiv.org/abs/2403.16535)] [[code](https://acodedog.github.io/wheel-legged-loco-manipulation/)]
-
+- [2024 IROS] Harmonic Mobile Manipulation [[paper](https://arxiv.org/pdf/2312.06639)] [[code](https://acodedog.github.io/wheel-legged-loco-manipulation/)]
 - [2024 IROS] Learning Visual Quadrupedal Loco-Manipulation from Demonstrations. [[paper](https://arxiv.org/abs/2403.20328)] 
+- [2024 IROS] BASENET: A Learning-based Mobile Manipulator Base Pose Sequence
+Planning for Pickup Tasks. [[paper](https://arxiv.org/pdf/2406.08653)] 
 
 - [2024 Arxiv] Learning Force Control for Legged Manipulation. [[paper](https://arxiv.org/html/2405.01402v2)] 
 
@@ -29,6 +31,8 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 - [2022 CORL] Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion. [[paper](https://arxiv.org/abs/2210.10044)] [[code](https://github.com/MarkFzp/Deep-Whole-Body-Control)]
 
 ### Model-based
+- [2024 IROS ] Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation [[paper](https://arxiv.org/pdf/2403.13079)] 
+- [2024 IROS ] Current-Based Impedance Control for Interacting with Mobile Manipulators[[paper](https://arxiv.org/pdf/2403.13079)] 
 - [2024.5 ICRA] Active-Perceptive Motion Generation for Mobile Manipulation. [[paper](https://arxiv.org/pdf/2310.00433)] [[code](https://sites.google.com/view/actpermoma/home)]
 
 - [2024 Arxiv] LocoMan: Advancing Versatile Quadrupedal Dexterity with Lightweight Loco-Manipulators. [[paper](https://arxiv.org/pdf/2403.18197)] 
@@ -36,8 +40,6 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 - [2023 Science Robotics] Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation. [[paper](https://www.science.org/doi/full/10.1126/scirobotics.adg5014)] 
 
 - [2023 IROS] Kinematically-Decoupled Impedance Control for Fast Object Visual Servoing and Grasping on Quadruped Manipulators. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10341714)] 
-
-
 
 - [2023 Autonomous Robots] RoLoMa: robust loco-manipulation for quadruped robots with arms. [[paper](https://link.springer.com/article/10.1007/s10514-023-10146-0)] 
 
