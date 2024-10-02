@@ -8,6 +8,9 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 
 
 ### Learning-based 
+- [2024 Corl] GHYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation [[paper](https://arxiv.org/abs/2406.14655)] 
+- [2024 Corl] Guided Reinforcement Learning for Robust Multi-Contact Loco-Manipulation [[paper](https://openreview.net/forum?id=9aZ4ehSTRc)] 
+- [2024 Arxiv] UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers [[paper](https://arxiv.org/abs/2407.10353)] 
 - [2024 IROS] HiLMa-Res: A General Hierarchical Framework via Residual RL for Combining Quadrupedal Locomotion and Manipulation [[paper](https://arxiv.org/abs/2407.06584)] 
 - [2024 IROS] On Learning Scene-Aware Generative State Abstractions for Task-Level Mobile Manipulation Planning [[paper](https://www.research-collection.ethz.ch/handle/20.500.11850/634113)]  [[code](https://github.com/ethz-asl/predicate_learning)]
 - [2024 IROS] Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot [[paper](https://arxiv.org/abs/2403.16535)] [[code](https://acodedog.github.io/wheel-legged-loco-manipulation/)]
@@ -22,7 +25,7 @@ Planning for Pickup Tasks. [[paper](https://arxiv.org/pdf/2406.08653)]
 
 - [2024 Arxiv] Pedipulate: Enabling Manipulation Skills using a Quadruped Robot’s Leg. [[paper](https://arxiv.org/pdf/2402.10837)] 
 
-- [2024 Arxiv] Visual Whole-Body Control for Legged Loco-Manipulation. [[paper](https://arxiv.org/abs/2403.16967)] [[code](https://github.com/Ericonaldo/visual_wholebody)]
+- [2024 Corl] Visual Whole-Body Control for Legged Loco-Manipulation. [[paper](https://arxiv.org/abs/2403.16967)] [[code](https://github.com/Ericonaldo/visual_wholebody)]
 
 - [2024 Arxiv] Learning Generalizable Feature Fields for Mobile Manipulation. [[paper](https://arxiv.org/abs/2403.07563)] 
 
