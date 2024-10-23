@@ -8,6 +8,10 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 
 
 ### Learning-based 
+- [2024 ICRA] Learning to Catch Reactive Objects with a Behavior Predictor [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10611106)] 
+- [2024 ICRA] Sim-To-Real Learning for Humanoid Box Loco-Manipulation [[paper](https://arxiv.org/abs/2310.03191)] 
+- [2024 ICRA] Humanoid Loco-Manipulations Using Combined Fast Dense 3D Tracking and SLAM with Wide-Angle Depth-Images [[paper](https://ieeexplore.ieee.org/document/10153459)] 
+- [2024 ICRA] Hierarchical Optimization-Based Control for Whole-Body Loco-Manipulation of Heavy Objects [[paper](https://arxiv.org/abs/2311.00112)] 
 - [2024 IROS] HiLMa-Res: A General Hierarchical Framework via Residual RL for Combining Quadrupedal Locomotion and Manipulation [[paper](https://arxiv.org/abs/2407.06584)] 
 - [2024 IROS] On Learning Scene-Aware Generative State Abstractions for Task-Level Mobile Manipulation Planning [[paper](https://www.research-collection.ethz.ch/handle/20.500.11850/634113)]  [[code](https://github.com/ethz-asl/predicate_learning)]
 - [2024 IROS] Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot [[paper](https://arxiv.org/abs/2403.16535)] [[code](https://acodedog.github.io/wheel-legged-loco-manipulation/)]
