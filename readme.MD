@@ -26,7 +26,7 @@ Planning for Pickup Tasks. [[paper](https://arxiv.org/pdf/2406.08653)]
 
 - [2024 Arxiv] Pedipulate: Enabling Manipulation Skills using a Quadruped Robot’s Leg. [[paper](https://arxiv.org/pdf/2402.10837)] 
 
-- [2024 Arxiv] Visual Whole-Body Control for Legged Loco-Manipulation. [[paper](https://arxiv.org/abs/2403.16967)] [[code](https://github.com/Ericonaldo/visual_wholebody)]
+- [2024 Corl] Visual Whole-Body Control for Legged Loco-Manipulation. [[paper](https://arxiv.org/abs/2403.16967)] [[code](https://github.com/Ericonaldo/visual_wholebody)]
 
 - [2024 Arxiv] Learning Generalizable Feature Fields for Mobile Manipulation. [[paper](https://arxiv.org/abs/2403.07563)] 
 
